@@ -30,15 +30,6 @@ As principais tecnologias utilizadas para o desenvolvimento deste frontend inclu
 - **Font Awesome**: Para ícones modernos e bonitos.
 
 
-### Explicações sobre as imagens:
-
-
-   
-   - **HTML5**: ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square)
-   - **CSS3**: ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square)
-   - **JavaScript**: ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square)
-   - **ReactJS**: ![ReactJS Badge](https://img.shields.io/badge/ReactJS-61DAFB.svg?style=flat-square)
-   - **License**: ![MIT License Badge](https://img.shields.io/badge/License-MIT-green.svg)
 
    - Link do repositorio backend : https://github.com/GabrielFernandes56/Backend-gerenciador-de-Tarefas
 
